@@ -38,7 +38,6 @@ python -m venv venv
 En Windows:
 
 ```bash
-.
 venv\Scripts\activate
 ```
 
