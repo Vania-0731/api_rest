@@ -1,0 +1,21 @@
+# Archivos de dependencias
+*.pyc
+*.pyo
+__pycache__/
+*.db
+*.sqlite3
+
+# Entorno virtual
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de configuración local
+*.local
+*.env
+*.env.*
+*.pyo
+*.pyc
+*.sqlite3
+*.log
